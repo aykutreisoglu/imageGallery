@@ -4,4 +4,4 @@
 
 ### Aşağıda ki resimde bitmiş hali gözükmektedir.
 
-![image] (https://github.com/aykutreisoglu/imageGallery/blob/main/src/figures/imageGallery.PNG)
+![image](https://github.com/aykutreisoglu/imageGallery/blob/main/src/figures/imageGallery.PNG)
